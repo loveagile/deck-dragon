@@ -1,0 +1,11 @@
+.body {
+  @apply text-center;
+}
+
+.header {
+  @apply flex flex-col text-white bg-slate-700 h-screen align-middle justify-center text-lg;
+}
+
+.logo {
+  @apply h-2/6;
+}
